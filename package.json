@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://prosanta17.github.io/eduprime-school",
+  "homepage": "https://prosanta17.github.io/school-website-development",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
